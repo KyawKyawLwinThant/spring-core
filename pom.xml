@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>sample-di</module>
+        <module>person-di</module>
     </modules>
 
     <properties>
